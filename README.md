@@ -1,32 +1,90 @@
-# Jekyll CV Crafter
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-cv-crafter.svg)](https://badge.fury.io/rb/jekyll-cv-crafter)
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> Visit [her website](http://themes.3rdwavemedia.com/) for more themes.
 
-Jekyll powered CV generator. 
-Check the [demo](http://pavelmakhov.com/jekyll-cv-crafter/).
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
 
-## Features
-
- - Lightweight - just 3 files: yml with information about you, html/liquid template and css.
- - Font Awesome icons + Bootstrap.
- - Could be easily integrated in already existing site/blog hosted on Github using Jekyll [data](http://jekyllrb.com/docs/datafiles/) files.
- - Data is separated from the view - just fill the YAML file to create your CV.
- - You can easily modify the template or create a new theme according to your needs (check out [my CV](http://pavelmakhov.com/cv)).
- 
-## Templates
-
- - [vertical](http://pavelmakhov.com/jekyll-cv-crafter/cv-vertical) template (WIP)
- - feel free to add yours! 
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://online-cv.webjeda.com/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://online-cv.webjeda.com/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ## Installation
 
-Clone/download this repo.
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository;
+* Go to settings and set master branch as Github Pages source;
+* Your new site should be ready at `https://<username>.github.io/online-cv/`;
+* Printable version of the site can be found at `https://<username>.github.io/online-cv/print`. Use a third party link https://pdflayer.com/, https://www.web2pdfconvert.com/ etc to get the printable PDF.
 
- - `_data/cv.yml` contains info about you;
- - `index.html` markup of the CV;
- - `css/cv.scss` styles.
+Change all the details from one place: `_data/data.yml`.
 
-So only thing you need to do is to fill the `cv.yml`. 
-As I mentioned above you can easily integrate this CV in your blog (if it's hosted on github pages) by putting `cv.yml` in `_data` folder of your blog, `cv.scss` in `css` folder of your blog and renaming `index.html` to `cv.html`.
- 
-PRs/issues/comments are welcome! Don't hesitate to contact me in case of any questions.
+### To preview/edit locally with docker
+
+```sh
+docker-compose up
+```
+
+*docker-compose.yml* file is used to create a container that is reachable under <http://localhost:4000>.
+Changes *_data/data.yml* will be visible after a while.
+
+### Local machine
+
+* Get the repo into your machine 
+
+```bash
+git clone https://github.com/sharu725/online-cv.git
+```
+
+* Install required ruby gems
+
+```bash
+bundle install
+```
+
+* Serve the site locally
+
+```bash
+bundle exec jekyll serve
+```
+
+* Navigate to `http://localhost:4000`
+
+
+## Skins
+
+There are 6 color schemes available:
+
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
+
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
+

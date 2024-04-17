@@ -1,5 +1,5 @@
+# Cache
 _site/
 .sass-cache/
 .jekyll-metadata
-/.idea/
-/jekyll-cv-crafter-0.1.0.gem
+.jekyll-cache
