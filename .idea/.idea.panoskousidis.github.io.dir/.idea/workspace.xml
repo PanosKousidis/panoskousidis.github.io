@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="NA - new template">
+    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="NA - Add some info">
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1713369851071</updated>
       <workItem from="1713369858092" duration="1351000" />
-      <workItem from="1713372047043" duration="1828000" />
+      <workItem from="1713372047043" duration="2472000" />
+      <workItem from="1713376788120" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="NA - new template">
       <option name="closed" value="true" />
@@ -129,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713373340101</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="NA - new template">
+      <option name="closed" value="true" />
+      <created>1713374801161</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713374801161</updated>
+    </task>
+    <task id="LOCAL-00009" summary="NA - Add some info">
+      <option name="closed" value="true" />
+      <created>1713376950332</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713376950333</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="NA - new template" />
-    <option name="LAST_COMMIT_MESSAGE" value="NA - new template" />
+    <MESSAGE value="NA - Add some info" />
+    <option name="LAST_COMMIT_MESSAGE" value="NA - Add some info" />
   </component>
 </project>
