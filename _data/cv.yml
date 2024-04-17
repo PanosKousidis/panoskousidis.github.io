@@ -1,19 +1,19 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: https://panoskousidis.github.io
+projectUrl: panoskousidis
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  name: Panos Kousidis
+  depiction: headshot.jpg
+  profession: Lead .NET Software Engineer
+  location: London, UK
+  citizenship: 
+  email: panos.kousidis@gmail.com
+  site: 
+  phone: 
+  github: /panoskousidis
+  stackoverflow: 
+  linkedin: /panoskousidis
 
 career:
  - position: Foot Clan Antagonist
