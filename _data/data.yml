@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -45,7 +41,7 @@ sidebar:
         - item: Piano
           link:
 
-        - item: Ski
+        - item: DIY
           link:
 
         - item: Gaming
@@ -54,43 +50,37 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      IT Professional with a vast experience in different technologies, always keen on learning new ones as they appear. Interaction with computers since primary school age, software development for entertainment purposes, computer build/repair.
+  
+      Has worked as a computer technician, software developer, MS-SQL database admin/developer, ORACLE PL/SQL developer, System Administrator, IT Consultant for small to
+      medium companies expertise with CISCO certifications in networks, Microsoft Certifications in Data (SQL) (MCSE:Data Platform) and Azure (Azure Developer)
+      
+      Fluent in English, eager to help, with a positive attitude to every rising problem
+      and providing best results with cooperation and coordination. The 7-year experience in a
+      Securities Company has developed the ability to work well under pressure, since in the stock
+      exchange world, every second counts in case of system malfunction. 
+      
+      Interested in further improvement on technology skills and the acquisition of certifications
+      
 education:
     title: Education
     info:
       - degree: MSc in Business Systems Analysis and Design
         university: City, University of London, UK
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        time: 2019
+        details: 
+          
       - degree: BSc in Digital Systems
         university: University of Piraeus, Greece
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        time: 2015
+        details: 
 
 experiences:
     title: Experience
     info:
       - role: Lead Developer
-        time: 2015 - Present
+        time_from: "2018-07-01"
+        time_to: "Present"
         company: Glencore, London, UK
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -105,7 +95,8 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
-        time: 2014 - 2015
+        time_from: "2016-01-01"
+        time_to: "2018-07-01"
         company: T.Rowe Price, London, UK
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -116,7 +107,8 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Software Developer
-        time: 2012 - 2014
+        time_from: "2008-08-01"
+        time_to: "2015-12-31"
         company: Piraeus Securities SA, Athens, Greece
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -246,6 +238,9 @@ skills:
       - name: SQL
         level: 100%
 
+      - name: WinForms
+        level: 100%
+        
       - name: Angular
         level: 30%
 
