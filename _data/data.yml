@@ -179,6 +179,14 @@ certifications:
           credentialurl: https://www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
           credentialname: Microsoft Certified Professional
 
+        - name: CCNA
+          start: May 2014
+          end: May 2017
+          organization: Cisco
+          credentialid: 417634172540EPWI
+          credentialurl: https://www.credly.com/badges/0c420553-da8f-4925-b7c5-7d1188c2d9f4/public_url
+          credentialname: CCNA - Routing & Switching Certified
+
 projects:
     title: Projects
     intro: >
