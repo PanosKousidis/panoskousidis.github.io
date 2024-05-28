@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="Add more skills">
+    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="Add to footer">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.panoskousidis.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.panoskousidis.github.io.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1713372047043" duration="2472000" />
       <workItem from="1713376788120" duration="287000" />
       <workItem from="1716835897131" duration="3279000" />
-      <workItem from="1716854073404" duration="6497000" />
+      <workItem from="1716854073404" duration="7210000" />
     </task>
     <task id="LOCAL-00001" summary="NA - new template">
       <option name="closed" value="true" />
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716860488484</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add to footer">
+      <option name="closed" value="true" />
+      <created>1716860663839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716860663839</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +334,7 @@
     <MESSAGE value="Add experience" />
     <MESSAGE value="Make skills a collection" />
     <MESSAGE value="Add more skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more skills" />
+    <MESSAGE value="Add to footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to footer" />
   </component>
 </project>

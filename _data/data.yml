@@ -12,14 +12,9 @@ sidebar:
     email: panos.kousidis@gmail.com
     phone: (+44)(0)7798887234
     timezone: Europe/London
-    citizenship:
-    website: #do not add http://
+    citizenship: Greek
     linkedin: panoskousidis
-    xing: 
     github: panoskousidis
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
     twitter: '@panos_kousidis'
     stack-overflow: 4169438/panos # Number/Username, e.g. 123456/alandoe
     codewars: PanosKousidis
@@ -38,10 +33,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Piano
-          link:
-
         - item: DIY
+          link:
+            
+        - item: Piano
           link:
 
         - item: Gaming
@@ -76,7 +71,9 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Front Office Lead Software Engineer / Technical product owner
+      - role: |
+          Front Office Lead Software Engineer 
+          Technical product owner
         start: "2018-07-01"
         end: "Present"
         company: Glencore, London, UK
@@ -110,12 +107,32 @@ experiences:
         end: "2015-12-31"
         company: Piraeus Securities SA, Athens, Greece
         details: |
-          Fix Engine Development and Support, ERP Development and Support, Data Feed Development HELEX (ODL, FEED)
-            - FiX 4.2, 4.4, VB.NET, C#, SQL, Oracle,
-            - Networks (CCNA)
-            - Virtualisation (Hyper-V, VMWare)
+          - Software development contribution
+            - Fix Engine Development and Support (FiX 4.2, 4.4)
+            - ERP Development and Support
+            - Data Feed Development HELEX (ODL, FEED)
+            - HR site in Sharepoint using Workflows for managing annual leaves
+          - Infrastructure contribution
+            - Network analysis, documentation and design/configuration (+CCNA)
+            - Migration of physical servers to virtual (Hyper-V, VMWare)
 
-certifications:
+      - role: Military Service
+        start: "2007-11-01"
+        end: "2008-07-01"
+        company: Greek Government
+        details: |
+          Armed forces training and development of small applications for automating various routines
+
+      - role: Software Developer & Computer Technician
+        start: "2005-01-01"
+        end: "2007-10-01"
+        company: ALS Logic Systems, Gerakas, Greece
+        details: |
+          - Development of ERP solution
+          - Computer installations (personal, servers)
+          - Exposure to network fundamentals
+
+    certifications:
       title: Certifications
       list:
         - name: Azure Developer Associate
@@ -229,28 +246,6 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     - section:
       title: Software Languages
@@ -264,15 +259,15 @@ skills:
           
         - name: SQL
           level: 100%
-  
-        - name: Angular
-          level: 30%
-  
-        - name: HTML5 & CSS
-          level: 40%
-  
+
         - name: Python
           level: 60%
+          
+        - name: HTML5 & CSS
+          level: 40%
+          
+        - name: Angular
+          level: 30%
           
     - section:
       title: Frameworks
