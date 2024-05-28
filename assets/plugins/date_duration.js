@@ -25,13 +25,16 @@ document.addEventListener("DOMContentLoaded", function() {
             const endYear = endDate.getFullYear();
 
             let durationYears = endYear - startYear;
-            let durationMonths = endMonthIndex - startMonthIndex;
+            let durationMonths = endMonthIndex - startMonthIndex + 1;
 
             if (durationMonths < 0) {
                 durationYears--;
                 durationMonths += 12;
             }
-
+            if (durationMonths === 12) {
+                durationYears++;
+                durationMonths = 0;
+            }
             const formattedStartDate = `${monthNames[startMonthIndex]} ${startYear}`;
             const formattedEndDate = timeTo === "Present" ? "Present" : `${monthNames[endMonthIndex]} ${endYear}`;
             const formattedDurationYears = durationYears === 0 ? `` : `${durationYears} years `;
