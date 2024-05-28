@@ -76,7 +76,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Lead Developer
+      - role: Front Office Lead Software Engineer / Technical product owner
         start: "2018-07-01"
         end: "Present"
         company: Glencore, London, UK
@@ -105,7 +105,7 @@ experiences:
             - C#, MSSQL, VB.NET, Volante, SWIFT, Messaging, Async Programming, Windows Services, IBM WebSphere MQ, TDD (nUnit, xUnit, MSTest), IoC (Dependency Injection, Factory), log4net, Autosys
             - AWS exposure (Lambdas, Step Functions)
           
-      - role: Software Developer
+      - role: Junior/Mid/Senior Software Developer
         start: "2008-08-01"
         end: "2015-12-31"
         company: Piraeus Securities SA, Athens, Greece
@@ -183,32 +183,32 @@ certifications:
           credentialurl: www.credly.com/badges/0c420553-da8f-4925-b7c5-7d1188c2d9f4/public_url
           credentialname: Verify
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #oss:
 #    title: OSS Contributions
@@ -252,26 +252,33 @@ projects:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C#
-        level: 100%
-
-      - name: SQL
-        level: 100%
-
-      - name: WinForms
-        level: 100%
-        
-      - name: Angular
-        level: 30%
-
-      - name: HTML5 & CSS
-        level: 30%
-
-      - name: Python
-        level: 50%
-
+    - section:
+      title: Software Languages
+  
+      toolset:
+        - name: C#
+          level: 100%
+  
+        - name: VB.NET
+          level: 100%
+          
+        - name: SQL
+          level: 100%
+  
+        - name: Angular
+          level: 30%
+  
+        - name: HTML5 & CSS
+          level: 30%
+  
+        - name: Python
+          level: 50%
+          
+    - section:
+      title: Frameworks
+      
+      toolset:
+        - name: WinForms
+          level: 100%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

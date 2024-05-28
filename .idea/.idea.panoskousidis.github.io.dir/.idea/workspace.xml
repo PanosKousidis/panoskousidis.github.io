@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="Fix credentials">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.panoskousidis.github.io.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.panoskousidis.github.io.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
-    </list>
+    <list default="true" id="345684c6-98a9-477e-937d-14653f30ffca" name="Changes" comment="Make skills a collection" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1713372047043" duration="2472000" />
       <workItem from="1713376788120" duration="287000" />
       <workItem from="1716835897131" duration="3279000" />
-      <workItem from="1716854073404" duration="4014000" />
+      <workItem from="1716854073404" duration="5526000" />
     </task>
     <task id="LOCAL-00001" summary="NA - new template">
       <option name="closed" value="true" />
@@ -240,7 +237,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716857784620</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add experience">
+      <option name="closed" value="true" />
+      <created>1716858757987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1716858757987</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Make skills a collection">
+      <option name="closed" value="true" />
+      <created>1716859537447</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716859537447</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Make skills a collection">
+      <option name="closed" value="true" />
+      <created>1716859572203</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716859572203</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +288,8 @@
     <MESSAGE value="Change time_from and time_to to start-end for consistency" />
     <MESSAGE value="Add cisco cert" />
     <MESSAGE value="Fix credentials" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix credentials" />
+    <MESSAGE value="Add experience" />
+    <MESSAGE value="Make skills a collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make skills a collection" />
   </component>
 </project>
