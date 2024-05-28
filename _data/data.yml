@@ -269,10 +269,10 @@ skills:
           level: 30%
   
         - name: HTML5 & CSS
-          level: 30%
+          level: 40%
   
         - name: Python
-          level: 50%
+          level: 60%
           
     - section:
       title: Frameworks
@@ -280,5 +280,34 @@ skills:
       toolset:
         - name: WinForms
           level: 100%
+
+        - name: ASP.NET Core WebApi
+          level: 90%
+          
+        - name: Domain-Driven Design (DDD)
+          level: 90%
+          
+        - name: Azure 
+          level: 80%
+          
+    - section:
+      title: Applications
+
+      toolset:
+        - name: ActiveBatch
+          level: 80%
+                   
+        - name: Volante
+          level: 80%
+
+        - name: IBM WebSphere MQ
+          level: 70%
+
+        - name: Tableau/Qlik/PowerBI
+          level: 60%
+
+        - name: AutoSys
+          level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
