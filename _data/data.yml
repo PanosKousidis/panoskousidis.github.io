@@ -122,43 +122,62 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
+        - name: Azure Developer
+          start: Aug 2022
+          end: Aug 2025
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialid: 36D765E98F37710A
+          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/36D765E98F37710A?sharingId=63D97AF487422B0E
+          credentialname: Azure Developer Associate
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Build end-to-end solutions in Microsoft Azure to create Azure Functions, 
+            implement and manage web apps, develop solutions utilizing Azure storage, and more.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
+        - name: Azure Data Fundamentals
+          start: Aug 2022
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialid: AF032E90700D2C8B
+          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/AF032E90700D2C8B?sharingId=63D97AF487422B0E
+          credentialname: Azure Data Fundamentals
+          details: Demonstrate foundational knowledge of core data concepts related to Microsoft Azure data services.
+
+        - name: Azure Fundamentals
+          start: Aug 2022
+          organization: Microsoft
+          credentialid: 483B3B14A1CB1025
+          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/483B3B14A1CB1025?sharingId=63D97AF487422B0E
+          credentialname: Azure Data Fundamentals
+          details: Demonstrate foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.
+
+        - name: MCSE
+          start: Sep 2016
+          organization: Microsoft
+          credentialid: C3FE08-B9I1C5
+          credentialurl: https://www.credly.com/badges/cc2cfb8f-48fc-4cec-aa20-ddabafae60fd/public_url
+          credentialname: MCSE - Data Management and Analytics Charter Member
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Earners of the MCSE: Data Management and Analytics certification have demonstrated the skills required 
+            to build enterprise-scale data solutions, and leverage business intelligence data—both on-premises and 
+            in cloud environments. Earning this certification qualifies an individual for such jobs as database analyst, 
+            database designer, and business intelligence analyst
+
+        - name: MCSA
+          start: May 2016
+          organization: Microsoft
+          credentialid: 09420C-8BC1VF
+          credentialurl: https://www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
+          credentialname: MCSA - SQL Server 2012/2014
+          details: |
+            Earners of the MCSA: SQL Server 2012/2014 certification have demonstrated the skills required to develop 
+            and maintain the next wave of mission-critical environments. They are qualified for a position as a 
+            database developer or database analyst
+
+        - name: MCP
+          start: Mar 2015
+          organization: Microsoft
+          credentialid: 1933B8-ED8H84
+          credentialurl: https://www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
+          credentialname: Microsoft Certified Professional
 
 projects:
     title: Projects
