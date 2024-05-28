@@ -34,9 +34,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
             const formattedStartDate = `${monthNames[startMonthIndex]} ${startYear}`;
             const formattedEndDate = timeTo === "Present" ? "Present" : `${monthNames[endMonthIndex]} ${endYear}`;
-            const duration = `${durationYears} years ${durationMonths} months`;
+            const formattedDurationYears = durationYears === 0 ? `` : `${durationYears} years `;
+            const formattedDurationMonths = durationMonths === 0 ? `` : `${durationMonths} months`;
 
-            item.textContent = `${formattedStartDate} - ${formattedEndDate} (${duration})`;
+            item.textContent = `${formattedStartDate} - ${formattedEndDate} (${formattedDurationYears}${formattedDurationMonths})`;
         }
     });
 });
