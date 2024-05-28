@@ -67,12 +67,10 @@ education:
     info:
       - degree: MSc in Business Systems Analysis and Design
         university: City, University of London, UK
-        time: 2019
         details: 
           
       - degree: BSc in Digital Systems
         university: University of Piraeus, Greece
-        time: 2015
         details: 
 
 experiences:
@@ -83,41 +81,39 @@ experiences:
         end: "Present"
         company: Glencore, London, UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Front Office Lead Software Engineer
+            - Ensure team delivers good code quality
+            - Directions, advice and mentoring of other devs
+            - Development of complex and challenging code requirements
+          - Business solutions consultant 
+            - Working close to the business to understand requirements better
+            - Good relationship with the business, establishing position as a valuable IT individual
+          - Technical product owner 
+            - Responsible for the development maintenance of a vessel tracking application (WinForms/SQL Server)
+            - Responsible for the development maintenance of a newer implementation of the vessel tracking application 
+              (Angular/Azure/Cosmos/DataLake)
+          - Interim manager
+            - Fulfilling the gap left when FrontOffice managers leave
+          
       - role: Senior Software Engineer
         start: "2016-01-01"
         end: "2018-07-01"
         company: T.Rowe Price, London, UK
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Trading Execution Software Engineer
+            - FX in-house applications support and trading automation
+            - C#, MSSQL, VB.NET, Volante, SWIFT, Messaging, Async Programming, Windows Services, IBM WebSphere MQ, TDD (nUnit, xUnit, MSTest), IoC (Dependency Injection, Factory), log4net, Autosys
+            - AWS exposure (Lambdas, Step Functions)
+          
       - role: Software Developer
         start: "2008-08-01"
         end: "2015-12-31"
         company: Piraeus Securities SA, Athens, Greece
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Fix Engine Development and Support, ERP Development and Support, Data Feed Development HELEX (ODL, FEED)
+            - FiX 4.2, 4.4, VB.NET, C#, SQL, Oracle,
+            - Networks (CCNA)
+            - Virtualisation (Hyper-V, VMWare)
 
 certifications:
       title: Certifications
