@@ -122,13 +122,13 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Azure Developer
+        - name: Azure Developer Associate
           start: Aug 2022
           end: Aug 2025
           organization: Microsoft
           credentialid: 36D765E98F37710A
-          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/36D765E98F37710A?sharingId=63D97AF487422B0E
-          credentialname: Azure Developer Associate
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/36D765E98F37710A?sharingId=63D97AF487422B0E
+          credentialname: Verify
           details: |
             Build end-to-end solutions in Microsoft Azure to create Azure Functions, 
             implement and manage web apps, develop solutions utilizing Azure storage, and more.
@@ -137,55 +137,55 @@ certifications:
           start: Aug 2022
           organization: Microsoft
           credentialid: AF032E90700D2C8B
-          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/AF032E90700D2C8B?sharingId=63D97AF487422B0E
-          credentialname: Azure Data Fundamentals
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/AF032E90700D2C8B?sharingId=63D97AF487422B0E
+          credentialname: Verify
           details: Demonstrate foundational knowledge of core data concepts related to Microsoft Azure data services.
 
         - name: Azure Fundamentals
           start: Aug 2022
           organization: Microsoft
           credentialid: 483B3B14A1CB1025
-          credentialurl: https://learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/483B3B14A1CB1025?sharingId=63D97AF487422B0E
-          credentialname: Azure Data Fundamentals
+          credentialurl: learn.microsoft.com/api/credentials/share/en-gb/PanosKousidis/483B3B14A1CB1025?sharingId=63D97AF487422B0E
+          credentialname: Verify
           details: Demonstrate foundational knowledge of cloud concepts, core Azure services, plus Azure management and governance features and tools.
 
-        - name: MCSE
+        - name: MCSE - Data Management and Analytics Charter Member
           start: Sep 2016
           organization: Microsoft
           credentialid: C3FE08-B9I1C5
-          credentialurl: https://www.credly.com/badges/cc2cfb8f-48fc-4cec-aa20-ddabafae60fd/public_url
-          credentialname: MCSE - Data Management and Analytics Charter Member
+          credentialurl: www.credly.com/badges/cc2cfb8f-48fc-4cec-aa20-ddabafae60fd/public_url
+          credentialname: Verify
           details: |
             Earners of the MCSE: Data Management and Analytics certification have demonstrated the skills required 
             to build enterprise-scale data solutions, and leverage business intelligence data—both on-premises and 
             in cloud environments. Earning this certification qualifies an individual for such jobs as database analyst, 
             database designer, and business intelligence analyst
 
-        - name: MCSA
+        - name: MCSA - SQL Server 2012/2014
           start: May 2016
           organization: Microsoft
           credentialid: 09420C-8BC1VF
-          credentialurl: https://www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
-          credentialname: MCSA - SQL Server 2012/2014
+          credentialurl: www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
+          credentialname: Verify
           details: |
             Earners of the MCSA: SQL Server 2012/2014 certification have demonstrated the skills required to develop 
             and maintain the next wave of mission-critical environments. They are qualified for a position as a 
             database developer or database analyst
 
-        - name: MCP
+        - name: Microsoft Certified Professional
           start: Mar 2015
           organization: Microsoft
           credentialid: 1933B8-ED8H84
-          credentialurl: https://www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
-          credentialname: Microsoft Certified Professional
+          credentialurl: www.credly.com/badges/83bf6f23-7dcd-452f-a213-245d6a95584b/public_url
+          credentialname: Verify
 
-        - name: CCNA
+        - name: CCNA - Routing & Switching Certified
           start: May 2014
           end: May 2017
           organization: Cisco
           credentialid: 417634172540EPWI
-          credentialurl: https://www.credly.com/badges/0c420553-da8f-4925-b7c5-7d1188c2d9f4/public_url
-          credentialname: CCNA - Routing & Switching Certified
+          credentialurl: www.credly.com/badges/0c420553-da8f-4925-b7c5-7d1188c2d9f4/public_url
+          credentialname: Verify
 
 projects:
     title: Projects
